@@ -1,0 +1,40 @@
+#body {
+    background-color: #001429;
+}
+
+#icon {
+    margin-left: 0.5%;
+    width:100px;
+    height:100px;
+}
+
+.container-fluid h1 {
+    font-family: 'Share Tech Mono', monospace;
+    color: #FFFFFF;
+}
+
+#input {
+    height: 30px;
+    width: 375px;
+    margin-bottom: 1%;
+    background-color: #F2F2F2;
+    border: none;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+}
+
+#searchButton {
+    margin-left: 1%;
+    background-color: #FFFFFF;
+    border: none;
+    font-family: 'Share Tech Mono', monospace;
+    color: #001429;
+}
+
+.gif{
+    background: url('https://media.giphy.com/media/11hMys2l1acqly/giphy.gif');
+    width: 100%;
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
